@@ -3,8 +3,8 @@ title:       Oh Snap!
 email:       sreetamdas@gmail.com
 author:      Sreetam Das
 description: "Random musings really"
-baseurl:     "/Blog"
-url:         "sreetamdas.github.io"
+baseurl:     ""
+url:         "sreetamdas.github.io/Blog"
 date_format: "%b %-d, %Y"
 
 # Google services
