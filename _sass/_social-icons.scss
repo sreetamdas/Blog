@@ -25,3 +25,33 @@
   position: relative;
   top: 0.1em;
 }
+
+
+.share-page {
+  font-size: 1.5rem;
+  padding: 0 0 0 0;
+  width: 100%;
+}
+
+.share-links a{
+    // text-align: center;
+    color: red !important;
+    text-decoration: none !important;
+}
+
+.share-page i.fa {
+  // cursor: pointer;
+  opacity: 0.6;
+  padding: 0.2em;
+  font-size: 1em;
+  color: black;
+}
+
+.share-page i.fa:hover {
+  opacity: 1;
+}
+
+.share-page iframe[title=Flattr] {
+  position: relative;
+  top: 0.1em;
+}
